@@ -1,1 +1,16 @@
-{"Name": "hyper", "BIDSVersion": "1.9.4", "License": "RU-DI-HD-1.0", "Authors": ["Thirza Dado", "Yagmur Gucluturk", "Luca Ambrogioni", "Gabri\u00eblle Ras", "Sander Bosch", "Marcel van Gerven", "Umut Guclu"], "HowToAcknowledge": "Citation of Dado et al. Hyperrealistic neural decoding for reconstructing faces from fMRI activations via the GAN latent space. Scientific reports (2022)"}
+{
+    "Name": "hyper",
+    "BIDSVersion": "1.9.4",
+    "License": "CC0",
+    "Authors": [
+        "Thirza Dado",
+        "Yagmur Gucluturk",
+        "Luca Ambrogioni",
+        "Gabriëlle Ras",
+        "Sander Bosch",
+        "Marcel van Gerven",
+        "Umut Guclu"
+    ],
+    "HowToAcknowledge": "Citation of Dado et al. Hyperrealistic neural decoding for reconstructing faces from fMRI activations via the GAN latent space. Scientific reports (2022)",
+    "DatasetDOI": "doi:10.18112/openneuro.ds004280.v1.0.0"
+}
