@@ -11,7 +11,7 @@
         "Marcel van Gerven",
         "Umut Güçlü"
     ],
-    "HowToAcknowledge": "Citation of Dado et al. Hyperrealistic neural decoding for reconstructing faces from fMRI activations via the GAN latent space. Scientific reports (2022)",
+    "HowToAcknowledge": "Dado, T., Güçlütürk, Y., Ambrogioni, L. et al. Hyperrealistic neural decoding for reconstructing faces from fMRI activations via the GAN latent space. Sci Rep 12, 141 (2022). https://doi.org/10.1038/s41598-021-03938-w",
     "DatasetDOI": "doi:10.18112/openneuro.ds004280.v1.0.0",
     "EthicsApprovals": [
         "The experiment was approved by the local ethics committee (CMO Regio Arnhem-Nijmegen). Subjects provided written informed consent in accordance with the Declaration of Helsinki."
