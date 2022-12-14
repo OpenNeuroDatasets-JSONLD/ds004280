@@ -4,12 +4,12 @@
     "License": "CC0",
     "Authors": [
         "Thirza Dado",
-        "Yagmur Gucluturk",
+        "Yağmur Güçlütürk",
         "Luca Ambrogioni",
         "Gabriëlle Ras",
         "Sander Bosch",
         "Marcel van Gerven",
-        "Umut Guclu"
+        "Umut Güçlü"
     ],
     "HowToAcknowledge": "Citation of Dado et al. Hyperrealistic neural decoding for reconstructing faces from fMRI activations via the GAN latent space. Scientific reports (2022)",
     "DatasetDOI": "doi:10.18112/openneuro.ds004280.v1.0.0",
